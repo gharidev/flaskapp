@@ -11,7 +11,7 @@ binwalk==2.1.2
 blinker==1.4
 boltons==18.0.1
 Brlapi==0.6.7
-Brotli==1.0.7
+Brotli==1.0.8
 capstone==3.0.5
 certifi==2018.8.24
 chardet==3.0.4
