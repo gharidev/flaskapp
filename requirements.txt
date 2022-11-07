@@ -69,7 +69,7 @@ keyrings.alt==3.1.1
 kiwisolver==1.0.1
 ldap3==2.5.1
 louis==3.8.0
-lxml==4.3.2
+lxml==4.9.1
 Mako==1.0.7
 Markdown==3.0.1
 MarkupSafe==1.1.0
@@ -124,7 +124,7 @@ python-openid==2.2.5
 python-pam==1.8.4
 python3-openid==3.1.0
 pytz==2019.1
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.13
 reportbug==7.5.2
 requests==2.21.0
