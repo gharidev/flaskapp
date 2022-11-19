@@ -20,7 +20,7 @@ Click==7.0
 colorama==0.3.7
 crcelk==1.3
 Creoleparser==0.7.5
-cryptography==2.6.1
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 debtags==2.1
@@ -69,8 +69,8 @@ keyrings.alt==3.1.1
 kiwisolver==1.0.1
 ldap3==2.5.1
 louis==3.8.0
-lxml==4.3.2
-Mako==1.0.7
+lxml==4.9.1
+Mako==1.2.2
 Markdown==3.0.1
 MarkupSafe==1.1.0
 matplotlib==3.0.2
@@ -82,11 +82,11 @@ nassl==2.1.2
 nbformat==4.4.0
 numpy==1.16.2
 olefile==0.46
-paramiko==2.4.2
+paramiko==2.10.1
 passlib==1.7.1
 patator==0.7
 pefile==2018.8.8
-Pillow==5.4.1
+Pillow==9.2.0
 plotly==3.6.1
 pluginbase==1.0.0
 ply==3.11
@@ -150,7 +150,7 @@ tornado==5.1.1
 traitlets==4.3.2
 tzlocal==1.5.1
 unattended-upgrades==0.1
-urllib3==1.24.1
+urllib3==1.26.5
 urwid==2.0.1
 wafw00f==0.9.5
 wapiti3==3.0.1
