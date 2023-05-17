@@ -146,7 +146,7 @@ termcolor==1.1.0
 termineter==1.0.4
 tld==0.9.1
 tls-parser==1.2.1
-tornado==5.1.1
+tornado==6.3.2
 traitlets==4.3.2
 tzlocal==1.5.1
 unattended-upgrades==0.1
