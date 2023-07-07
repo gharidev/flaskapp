@@ -133,7 +133,7 @@ retrying==1.3.3
 ruamel.yaml==0.15.34
 rule-engine==1.1.0
 Rx==1.6.1
-scipy==1.1.0
+scipy==1.10.0rc1
 SecretStorage==2.3.1
 six==1.12.0
 smoke-zephyr==1.4.1
