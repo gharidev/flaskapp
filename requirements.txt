@@ -146,7 +146,7 @@ termcolor==1.1.0
 termineter==1.0.4
 tld==0.9.1
 tls-parser==1.2.1
-tornado==5.1.1
+tornado==6.3.3
 traitlets==4.3.2
 tzlocal==1.5.1
 unattended-upgrades==0.1
@@ -156,7 +156,7 @@ wafw00f==0.9.5
 wapiti3==3.0.1
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.15.5
+Werkzeug==3.0.1
 wfuzz==2.3.4
 Whoosh==2.7.4
 wsproto==0.11.0
